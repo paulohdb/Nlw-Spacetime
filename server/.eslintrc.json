@@ -8,6 +8,8 @@
           {
             "endOfLine": "crlf"
           }
-        ]
+        ],
+
+        "camelcase": "off"
       }
 }
